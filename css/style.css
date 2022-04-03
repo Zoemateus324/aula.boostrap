@@ -1,10 +1,11 @@
-.navbar[{
-    background-color: #000000;
-}]
+.navbar{
+    background-color: #ffffff;
+}
 
 .quem-somos{
-    background-color: #075eb4;
+    background-color: #5b15b6;
 }
 .margin{
     padding-top: 15px;
+    padding-bottom: 50px;
 }
