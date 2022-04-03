@@ -1,5 +1,6 @@
 body{
     font: 20px, Arial, sans-serif;
+    max-width: 100%;
 }
 .navbar{
     background-color: #ffffff;
@@ -11,10 +12,15 @@ body{
 }
 .margin{
     padding-top: 15px;
-    padding-top: 10px;
+    padding-top: 5px;
     
   
 }
 .parceiros{
     background-color:#fdfdfd;
+}
+.bg-footer{
+    background-color: #000000;
+    color: white;
+   
 }
